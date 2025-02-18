@@ -1,0 +1,1 @@
+This repository showcases an uncommon case of a ZeroDivisionError in Python. The error occurs within a function, where an if condition checks for a zero division before performing the division. However, the else block might mask the actual error and cause it to occur unexpectedly. The bugSolution.py file presents a solution using try-except blocks to handle the potential error.
